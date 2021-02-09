@@ -1,3 +1,25 @@
+# Coding-Challenge
+
+
+## Project setup
+```
+git clone https://github.com/NoamGoren/frontend-coding-challenge.git
+```
+
+```
+yarn install
+```
+### start project
+```
+yarn start 
+```
+
+### Run tests
+```
+yarn test 
+```
+
+
 # Frontend Coding Challenge
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and consists of following addtional libraries:
