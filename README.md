@@ -9,7 +9,7 @@ git clone https://github.com/NoamGoren/frontend-coding-challenge.git
 ```
 yarn install
 ```
-### start project
+### Start project
 ```
 yarn start 
 ```
