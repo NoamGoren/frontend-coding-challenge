@@ -16,7 +16,7 @@ yarn start
 
 ### Run tests
 ```
-yarn test 
+yarn test  --watchAll
 ```
 
 
